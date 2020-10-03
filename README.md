@@ -7,11 +7,19 @@ Bootstrap-4.4.1 class information and others information for making template .
 ```bash
 
   
- 
-
 
 	https://getbootstrap.com/docs/4.4/getting-started/introduction/
 	https://getbootstrap.com/docs/4.4/layout/overview/
+	-------------------------------------------------------------------------------
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/csc/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/main.css">             <!-- my style -->
+	<link rel="stylesheet" href="assets/css/myresponsive.css">     <!-- my Responsive style -->
+	
+	<script src="assets/js/jquery-3.2.0.min.js"></script>  
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
+	<script src="assets/js/myScript.js"></script>                  <!-- my script -->
+	
 	-------------------------------------------------------------------------------
 
 	.container		100%	540px	720px	960px	1140px
