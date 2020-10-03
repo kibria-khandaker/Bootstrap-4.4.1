@@ -167,7 +167,7 @@ Bootstrap-4.4.1 class information and others information for making template .
 	4) https://material.io/resources/icons/?style=outline
 	5) https://icons8.com/
 	6) https://github.com/danklammer/bytesize-icons
-	7) https://fontawesome.com/
+	7) https://fontawesome.com/ _Font Awesome 4.7.0_
 	------------------------------------------------------------------------------- 
   
   
