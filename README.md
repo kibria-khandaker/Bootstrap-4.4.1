@@ -11,14 +11,14 @@ Bootstrap-4.4.1 class information and others information for making template .
 	https://getbootstrap.com/docs/4.4/getting-started/introduction/
 	https://getbootstrap.com/docs/4.4/layout/overview/
 	-------------------------------------------------------------------------------
-	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-	<link rel="stylesheet" href="assets/csc/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/main.css">             <!-- my style -->
-	<link rel="stylesheet" href="assets/css/myresponsive.css">     <!-- my Responsive style -->
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">	<!-- Font Awesome 4.7.0 -->
+	<link rel="stylesheet" href="assets/csc/bootstrap.min.css">		<!-- Bootstrap v4.4.1 -->
+	<link rel="stylesheet" href="assets/css/main.css">              <!-- my style / v1.0.0 -->
+	<link rel="stylesheet" href="assets/css/myresponsive.css">      <!-- my Responsive style / v1.0.0 -->
 	
-	<script src="assets/js/jquery-3.2.0.min.js"></script>  
-	<script src="assets/js/bootstrap.bundle.min.js"></script>
-	<script src="assets/js/myScript.js"></script>                  <!-- my script -->
+	<script src="assets/js/jquery-3.2.0.min.js"></script>  		    <!-- jQuery v3.2.0 -->
+	<script src="assets/js/bootstrap.bundle.min.js"></script>		<!-- Bootstrap v4.4.1 -->
+	<script src="assets/js/myScript.js"></script>                   <!-- my script / v1.0.0 -->
 	
 	-------------------------------------------------------------------------------
 
