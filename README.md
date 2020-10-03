@@ -4,9 +4,13 @@ Bootstrap-4.4.1 class information and others information for making template .
 ---
 
 
-```bash
+```html
 
-https://getbootstrap.com/docs/4.4/getting-started/introduction/
+  
+ 
+
+
+	https://getbootstrap.com/docs/4.4/getting-started/introduction/
 	https://getbootstrap.com/docs/4.4/layout/overview/
 	-------------------------------------------------------------------------------
 
@@ -156,9 +160,7 @@ https://getbootstrap.com/docs/4.4/getting-started/introduction/
 	5) https://icons8.com/
 	6) https://github.com/danklammer/bytesize-icons
 	7) https://fontawesome.com/
-	-------------------------------------------------------------------------------
-  
-  
+	------------------------------------------------------------------------------- 
   
   
   ```
