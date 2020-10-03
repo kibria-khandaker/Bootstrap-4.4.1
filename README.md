@@ -4,7 +4,7 @@ Bootstrap-4.4.1 class information and others information for making template .
 ---
 
 
-```html
+```bash
 
   
  
